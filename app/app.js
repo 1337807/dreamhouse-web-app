@@ -36,7 +36,7 @@ class MyApp {
             {title: 'Favorites', component: FavoriteListPage, icon: "star"}
         ];
 
-        this.rootPage = PropertyListPage;
+        this.rootPage = WelcomePage;
         this.initializeApp();
     }
 
